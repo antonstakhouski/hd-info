@@ -1,5 +1,6 @@
 # hd-info
 My light version of hdparm. Program shows:
+
 	* HD model
 	* Fw version
 	* Serial num
